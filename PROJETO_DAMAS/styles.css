@@ -1,0 +1,119 @@
+table,
+td {
+    border: solid black 1px;
+}
+
+table {
+    table-layout: fixed;
+}
+
+td {
+    padding: 4px;
+}
+
+table {
+    width: 490px;
+    height: 490px;
+}
+
+tr {
+    height: 70px;
+}
+
+td {
+    width: 70px;
+}
+
+.white {
+    background-color: #ffffff;
+}
+
+.black {
+    background-color: #000000;
+}
+
+.brown {
+    background-color: #8B4513;
+}
+
+.beige {
+    background-color: beige;
+}
+
+body {
+    background-color: silver;
+}
+
+.margin-bottom {
+    margin-bottom: 30px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#player1,
+#player1Points,
+#turn1 {
+    color: blue;
+}
+
+
+#player2,
+#player2Points,
+#turn2 {
+    color: red;
+}
+
+div.content {
+    margin-top: 30px;
+}
+
+th {
+    text-align: center;
+}
+
+body {
+    background-image: linear-gradient(to bottom right, black, grey);
+    background-attachment: fixed;
+}
+
+footer {
+    background-color: rgb(33, 37, 41);
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+h1,
+h2,
+h3,
+p,
+label,
+span {
+    color: white;
+}
+
+p {
+    text-align: justify;
+}
+
+
+.logo {
+    width: 50px;
+}
+
+.footer-logo {
+    width: 70px;
+    float: right;
+}
+
+.cell-selected {
+    background-color: darkred;
+}
+
+.cell-moves {
+    background-color: red;
+}
